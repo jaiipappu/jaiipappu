@@ -2,7 +2,7 @@
  
 👀 I’m interested in leveraging data analysis and research to solve complex challenges, especially in the realms of healthcare and societal equity.
 
-🌱 I’m currently learning advanced statistical modeling techniques and exploring new data visualization tools to enhance my analytical skills.
+🌱 I’m currently exploring advanced AI algorithms and neural networks, integrating my neuroscience insights to analyze data for strategic decision-making in addressing social disparities.
 
 💞️ I’m looking to collaborate on projects related to data-driven solutions for societal issues, healthcare technology, or innovative research initiatives.
 
